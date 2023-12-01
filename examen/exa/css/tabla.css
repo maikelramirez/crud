@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: cursive;
+}
+
+body {
+    background: url(../img/12.jpg);
+    background-position: center;
+    backdrop-filter: blur(4px);
+}
+
+table{
+    background: linear-gradient(rgba(0, 0, 0, 0.664), rgba(255, 0, 0, 0.384), rgba(77, 77, 77, 0.384));
+    margin: 0 auto;
+    margin-top: 380px;
+    width: 900px;
+    height: 200px;
+    padding: 20px;
+    box-shadow: 10px 10px 40px white;
+
+
+}
+
+th{
+    color: white;
+}
+
+td{
+    position: relative;
+    left: 20px;
+    color: white;
+    
+}
+
+
+a{
+    color:white;
+}
+
+.btn{
+    position: relative;
+    left: 900px;
+    top: 350px;
+    text-decoration: none;
+    background-color: rgba(0, 0, 0, 0.486);
+    padding: 10px;
+    box-shadow: 10px 10px 40px white;
+
+}
+.icon{
+    text-align: center;
+    align-items: center;
+}
